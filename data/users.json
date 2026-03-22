@@ -1,0 +1,20 @@
+[
+  {
+    "displayName": "Alice Johnson",
+    "mail": "alice@company.com",
+    "department": "IT",
+    "lastActivityDateTime": "2026-03-01"
+  },
+  {
+    "displayName": "Mark Davis",
+    "mail": "mark@company.com",
+    "department": "Finance",
+    "lastActivityDateTime": "2025-12-10"
+  },
+  {
+    "displayName": "Sara Lee",
+    "mail": "sara@company.com",
+    "department": "HR",
+    "lastActivityDateTime": "2026-03-15"
+  }
+]
